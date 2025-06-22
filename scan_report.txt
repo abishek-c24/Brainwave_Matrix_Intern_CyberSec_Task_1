@@ -1,0 +1,40 @@
+🔎 PHISHING LINK SCANNER RESULTS
+
+https://example.com ➜ {'original_url': 'https://example.com', 'unshortened_url': 'https://example.com/', 'score': 0, 'status': '✅ Safe', 'virustotal': '✅ Clean', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+http://login-secure.bank-site.xyz ➜ {'original_url': 'http://login-secure.bank-site.xyz', 'unshortened_url': 'http://login-secure.bank-site.xyz', 'score': 80, 'status': '🚨 Malicious', 'virustotal': '⚠️ VT API Error (404)', 'urlscan': {'status': '❌ Submit Error (400) — Possibly blocked or invalid domain'}}
+
+https://paypal-login.example.com/ ➜ {'original_url': 'https://paypal-login.example.com/', 'unshortened_url': 'https://paypal-login.example.com/', 'score': 30, 'status': '⚠️ Suspicious', 'virustotal': '⚠️ VT API Error (404)', 'urlscan': {'status': '❌ Submit Error (400) — Possibly blocked or invalid domain'}}
+
+https://google.com ➜ {'original_url': 'https://google.com', 'unshortened_url': 'https://www.google.com/', 'score': 0, 'status': '✅ Safe', 'virustotal': '✅ Clean', 'urlscan': {'status': '❌ Submit Error (400) — Possibly blocked or invalid domain'}}
+
+https://google.com ➜ {'original_url': 'https://google.com', 'unshortened_url': 'https://www.google.com/', 'score': 0, 'status': '✅ Safe', 'virustotal': '✅ Clean', 'urlscan': {'status': '❌ Submit Error (400) — Possibly blocked or invalid domain'}}
+
+https://google.com ➜ {'original_url': 'https://google.com', 'unshortened_url': 'https://www.google.com/', 'score': 0, 'status': '✅ Safe', 'virustotal': '✅ Clean', 'urlscan': {'status': '❌ Submit Error (400) — Possibly blocked or invalid domain'}}
+
+https://google.com ➜ {'original_url': 'https://google.com', 'unshortened_url': 'https://www.google.com/', 'score': 0, 'status': '✅ Safe', 'virustotal': '✅ Clean', 'urlscan': {'status': '❌ Submit Error (400) — Possibly blocked or invalid domain'}}
+
+http://192.168.1.1 ➜ {'original_url': 'http://192.168.1.1', 'unshortened_url': 'http://192.168.1.1', 'score': 40, 'status': '⚠️ Suspicious', 'virustotal': '✅ Clean', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+http://192.168.1.1 ➜ {'original_url': 'http://192.168.1.1', 'unshortened_url': 'http://192.168.1.1', 'score': 40, 'status': '⚠️ Suspicious', 'virustotal': '✅ Clean', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+http://192.168.1.1 ➜ {'original_url': 'http://192.168.1.1', 'unshortened_url': 'http://192.168.1.1', 'score': 40, 'status': '⚠️ Suspicious', 'virustotal': '✅ Clean', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+http://192.168.1.1 ➜ {'original_url': 'http://192.168.1.1', 'unshortened_url': 'http://192.168.1.1', 'score': 40, 'status': '⚠️ Suspicious', 'virustotal': '✅ Clean', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+https://paypal-login.com/update ➜ {'original_url': 'https://paypal-login.com/update', 'unshortened_url': 'https://paypal-login.com/update', 'score': 30, 'status': '⚠️ Suspicious', 'virustotal': '🔴 Malicious (1 engines)', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+https://paypal-login.com/update ➜ {'original_url': 'https://paypal-login.com/update', 'unshortened_url': 'https://paypal-login.com/update', 'score': 30, 'status': '⚠️ Suspicious', 'virustotal': '🔴 Malicious (1 engines)', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+https://paypal-login.com/update ➜ {'original_url': 'https://paypal-login.com/update', 'unshortened_url': 'https://paypal-login.com/update', 'score': 30, 'status': '⚠️ Suspicious', 'virustotal': '🔴 Malicious (1 engines)', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+https://paypal-login.com/update ➜ {'original_url': 'https://paypal-login.com/update', 'unshortened_url': 'https://paypal-login.com/update', 'score': 30, 'status': '⚠️ Suspicious', 'virustotal': '🔴 Malicious (1 engines)', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+https://bit.ly/3xXYz0 ➜ {'original_url': 'https://bit.ly/3xXYz0', 'unshortened_url': 'https://bit.ly/3xXYz0', 'score': 20, 'status': '✅ Safe', 'virustotal': '🔴 Malicious (1 engines)', 'urlscan': {'status': '✅ Domain clean: bit.ly', 'domain': 'bit.ly', 'verdict_score': 0}}
+
+https://bit.ly/3xXYz0 ➜ {'original_url': 'https://bit.ly/3xXYz0', 'unshortened_url': 'https://bit.ly/3xXYz0', 'score': 20, 'status': '✅ Safe', 'virustotal': '🔴 Malicious (1 engines)', 'urlscan': {'status': '✅ Domain clean: bit.ly', 'domain': 'bit.ly', 'verdict_score': 0}}
+
+https://bit.ly/3xXYz0 ➜ {'original_url': 'https://bit.ly/3xXYz0', 'unshortened_url': 'https://bit.ly/3xXYz0', 'score': 20, 'status': '✅ Safe', 'virustotal': '🔴 Malicious (1 engines)', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
+https://bit.ly/3xXYz0 ➜ {'original_url': 'https://bit.ly/3xXYz0', 'unshortened_url': 'https://bit.ly/3xXYz0', 'score': 20, 'status': '✅ Safe', 'virustotal': '🔴 Malicious (1 engines)', 'urlscan': {'status': '⚠️ Fetch Error (404) — Retried & failed'}}
+
