@@ -95,11 +95,8 @@ phishing-link-scanner/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-github/phishing-link-scanner.git
+git clone https://github.com/abishek-c24/Brainwave_Matrix_Intern_CyberSec_Task_1.git
 
-cd phishing-link-scanner
-
-pip install -r requirements.txt
 ```
 
 ---
@@ -163,7 +160,7 @@ credentials, token, support, alert, warning, helpdesk, recovery
 
 ---
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 Here are planned upgrades to make the Phishing Link Scanner more powerful and feature-rich:
 
 ## ✅ Export & Reporting
